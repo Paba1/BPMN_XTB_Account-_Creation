@@ -4,7 +4,7 @@ This repository contains a university project for the Business Process Modelling
 
 📂 Repository structure
 
-project_xtb.pdf – complete project documentation, including process description, workplace model, document model, and reflections.
+Projekt BPMN XTB.pdf – complete project documentation, including process description, workplace model, document model, and reflections.
 
 xtb_process_diagram.jpg – BPMN diagram (swimlane view) exported as an image for easier reading.
 
