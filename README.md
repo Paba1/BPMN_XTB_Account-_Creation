@@ -6,7 +6,7 @@ This repository contains a university project for the Business Process Modelling
 
 Projekt BPMN XTB.pdf – complete project documentation, including process description, workplace model, document model, and reflections.
 
-xtb_process_diagram.jpg – BPMN diagram (swimlane view) exported as an image for easier reading.
+bpmn_xtb.jpg – BPMN diagram (swimlane view) exported as an image for easier reading.
 
 🧭 How to view
 
